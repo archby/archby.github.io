@@ -1,4 +1,3 @@
-// Render the links dynamically from config.js
 document.addEventListener("DOMContentLoaded", () => {
     const container = document.getElementById("socials-container");
     
