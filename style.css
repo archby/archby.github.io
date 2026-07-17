@@ -1,4 +1,3 @@
-/* Minimalist Dark Mode Stylesheet */
 :root {
     --bg-color: #121212;
     --text-primary: #e0e0e0;
@@ -45,7 +44,6 @@ header h1 {
     font-size: 14px;
 }
 
-/* Fallback simple layout for columns/rows to avoid flex issues in generic rendering */
 .links-list {
     display: block;
 }
