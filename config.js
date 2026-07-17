@@ -1,4 +1,3 @@
-// Edit this file to add, remove, or modify your social links and profiles.
 const CONFIG = {
     links: [
         {
